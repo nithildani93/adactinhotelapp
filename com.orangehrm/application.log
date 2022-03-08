@@ -1,0 +1,10 @@
+2022-03-08 18:45:37,376 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-08 18:45:37,384 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] openingchrome Browser
+2022-03-08 19:01:32,453 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-08 19:01:32,462 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] openingchrome Browser
+2022-03-08 19:02:22,964 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-08 19:02:22,973 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] openingchrome Browser
+2022-03-08 19:03:34,530 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-08 19:03:34,538 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] openingfirefox Browser
+2022-03-08 19:04:56,693 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-08 19:04:56,703 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] openingedge Browser
