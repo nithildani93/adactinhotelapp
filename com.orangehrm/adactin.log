@@ -1,26 +1,8 @@
-2022-03-08 20:54:07,254 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-08 20:54:07,262 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening edge Browser
-2022-03-08 21:13:26,740 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-08 21:13:26,770 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-08 21:13:51,676 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-08 21:13:51,832 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-08 21:13:53,471 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-08 21:13:53,549 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in
-2022-03-08 21:17:02,761 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-08 21:17:02,771 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-08 21:17:25,365 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-08 21:17:25,799 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-08 21:17:31,754 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-08 21:17:31,755 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in
-2022-03-08 21:19:26,731 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-08 21:19:26,738 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-08 21:19:47,421 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-08 21:19:47,536 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-08 21:19:50,865 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-08 21:19:50,867 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in
-2022-03-08 21:20:31,682 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-08 21:20:31,692 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening firefox Browser
-2022-03-08 21:21:41,855 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-08 21:21:42,413 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-08 21:21:48,672 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-08 21:21:48,673 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in
+2022-03-09 22:22:47,915 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-09 22:22:48,002 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening firefox Browser
+2022-03-09 22:25:26,039 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-09 22:25:26,047 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-09 22:26:56,360 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-09 22:26:56,494 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-09 22:27:01,202 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-09 22:27:01,240 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in

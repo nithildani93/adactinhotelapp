@@ -21,24 +21,28 @@ public class VerifyUserLogin_StepDef {
 	
 	@Given("the user opens the adactin site")
 	public void the_user_opens_the_adactin_site() {
+		
 		driver.get(Constants.AppUrl);
 	}
 
 	@When("the user enters the username as {string}")
 	public void the_user_enters_the_username_as(String string) {
-		LoginPage.userName.sendKeys(Constants.UserName);
+		
+		LoginPage.getInstance().userName(Constants.UserName);
 		LOGGER.info("the_user_enters_the_username");
 	}
 
 	@When("the user enters the password as {string}")
 	public void the_user_enters_the_password_as(String string) {
-		LoginPage.password.sendKeys(Constants.Password);
+		
+		LoginPage.getInstance().password(Constants.Password);
 		LOGGER.info("the_user_enters_the_password");
 	}
 
 	@When("the user clicks the submit button")
 	public void the_user_clicks_the_submit_button() {
-		LoginPage.LoginButton.click();
+		
+		LoginPage.getInstance().clickLogin();
 		LOGGER.info("the_user_clicks_the_submit_button");
 		
 	}

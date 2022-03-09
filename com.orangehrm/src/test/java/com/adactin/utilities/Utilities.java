@@ -33,7 +33,7 @@ public class Utilities {
 	}
 	
 	public void initWebElemts() {
-		PageFactory.initElements(DriverManager.getDriver(), LoginPage.class);
+		PageFactory.initElements(DriverManager.getDriver(), LoginPage.getInstance());
 	}
 	
 
