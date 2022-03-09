@@ -3,6 +3,8 @@ package com.adactin.pageobjects;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import com.adactin.utilities.Utilities;
+
 public class LoginPage {
 	
 	
@@ -34,14 +36,17 @@ public class LoginPage {
 	
 	
 	public void userName(String Username) {
+		Utilities.getInstance().highlightElement(userName);
 		userName.sendKeys(Username);
 	}
 	
 	public void password(String Password) {
+		Utilities.getInstance().highlightElement(password);
 		password.sendKeys(Password);
 	}
 	
 	public void clickLogin() {
+		Utilities.getInstance().highlightElement(LoginButton);
 		LoginButton.click();
 	}
 	

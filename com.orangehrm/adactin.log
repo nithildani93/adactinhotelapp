@@ -1,8 +1,59 @@
-2022-03-09 22:22:47,915 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-09 22:22:48,002 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening firefox Browser
-2022-03-09 22:25:26,039 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-09 22:25:26,047 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-09 22:26:56,360 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-09 22:26:56,494 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-09 22:27:01,202 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-09 22:27:01,240 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_should_be_logged_in
+2022-03-10 00:21:10,275 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:21:10,355 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:21:52,489 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_enter_the_username
+2022-03-10 00:21:53,992 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_enter_the_password
+2022-03-10 00:21:55,018 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_click_the_login_button
+2022-03-10 00:21:55,943 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:30:27,863 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:30:27,874 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:30:48,744 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_enter_the_username
+2022-03-10 00:30:48,746 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] org.openqa.selenium.JavascriptException: javascript error: arguments[0].setattribute is not a function
+  (Session info: chrome=99.0.4844.51)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'EZHIL', ip: '192.168.1.199', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\EZHILV~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2242dbf28cc509215d3f35696604dd05
+2022-03-10 00:30:49,293 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_enter_the_password
+2022-03-10 00:30:50,094 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_could_not_click_the_login_button
+2022-03-10 00:30:50,554 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:32:59,686 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:32:59,698 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:33:21,906 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:33:22,044 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:33:25,444 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:33:25,674 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:34:45,169 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:34:45,182 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:35:05,900 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:35:06,045 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:35:10,365 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:35:10,439 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:37:27,884 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:37:27,893 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:37:48,714 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:37:48,851 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:37:52,711 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:37:52,759 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:40:57,880 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:40:57,891 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:41:19,187 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:41:19,318 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:41:24,372 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:41:24,428 [ERROR] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_unable_to_see_UserName
+2022-03-10 00:44:00,787 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:44:00,796 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:44:23,540 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:44:23,875 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:44:28,967 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:47:48,919 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:47:48,930 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:48:06,968 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:48:07,105 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:48:11,135 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:50:34,907 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-10 00:50:34,918 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-10 00:50:56,188 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-10 00:50:56,317 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-10 00:51:00,045 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-10 00:51:00,161 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName

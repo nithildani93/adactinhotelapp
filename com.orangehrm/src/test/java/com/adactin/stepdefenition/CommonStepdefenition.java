@@ -18,15 +18,14 @@ public class CommonStepdefenition {
 
 		try {
 			LOGGER.info("Loading properties");
-			Utilities utilities = new Utilities();
-			utilities.loadproperties();
+			Utilities.getInstance().loadproperties();
 
 			if(DriverManager.getDriver()==null) {
 
 				LOGGER.info("opening "+Constants.BrowserName+" Browser");
 
 				DriverManager.LaunchBrowser();
-				utilities.initWebElemts();
+				Utilities.getInstance().initWebElemts();
 
 			}
 		}
