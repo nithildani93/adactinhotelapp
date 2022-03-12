@@ -27,8 +27,8 @@ public class VerifyUserLogin_StepDef {
 		driver.get(Constants.AppUrl);
 	}
 
-	@When("the user enters the username as {string}")
-	public void the_user_enters_the_username_as(String string) {
+	@When("the user enters the username")
+	public void the_user_enters_the_username() {
 
 		try {
 			LoginPage.getInstance().userName(Constants.UserName);
@@ -43,8 +43,8 @@ public class VerifyUserLogin_StepDef {
 	}
 
 
-	@When("the user enters the password as {string}")
-	public void the_user_enters_the_password_as(String string) {
+	@When("the user enters the password")
+	public void the_user_enters_the_password() {
 
 		try {
 			LoginPage.getInstance().password(Constants.Password);
@@ -78,6 +78,7 @@ public class VerifyUserLogin_StepDef {
 			if(userName.contains(Constants.UserName)){
 				System.out.println("User Successfully Logged In");
 				LOGGER.info("the_user_is_able_to_see_UserName");
+				LOGGER.info("ADCTN-1 Test case executed succesfully");
 			}
 			else {
 				System.out.println("Expected is '"+Constants.UserName+"' but obtained is '"+ userName+"'");
