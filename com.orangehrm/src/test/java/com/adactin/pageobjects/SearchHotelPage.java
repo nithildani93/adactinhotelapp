@@ -142,7 +142,7 @@ public class SearchHotelPage {
 		datepickin.sendKeys(dateout);
 	}
 	
-	public void searchButton() {
+	public void clickSearchButton() {
 		searchtbutton.click();
 	}
 	

@@ -8,7 +8,8 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/features",
 				glue= "com.adactin.stepdefenition",
-				monochrome = true
+				monochrome = true,
+				dryRun = false
 				)
 public class TestRunner {
 
