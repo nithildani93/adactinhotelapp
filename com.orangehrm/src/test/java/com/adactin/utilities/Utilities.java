@@ -20,6 +20,7 @@ import org.openqa.selenium.support.ui.Select;
 import com.adactin.constants.Constants;
 import com.adactin.pageobjects.LoginPage;
 import com.adactin.pageobjects.SearchHotelPage;
+import com.adactin.pageobjects.SelectHotelPage;
 import com.adactin.webdrivermanager.DriverManager;
 
 public class Utilities {
@@ -68,6 +69,7 @@ public class Utilities {
 	public void initWebElemts() {
 		PageFactory.initElements(DriverManager.getDriver(), LoginPage.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), SearchHotelPage.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(), SelectHotelPage.getInstance());
 	}
 
 

@@ -4,8 +4,11 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.junit.Assert;
 
 import com.adactin.pageobjects.SearchHotelPage;
+import com.adactin.pageobjects.SelectHotelPage;
+import com.adactin.webdrivermanager.DriverManager;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -68,11 +71,6 @@ public class SearchHotelToAcceptValidCheckoutDate_Stepdef {
 	    LOGGER.info("User enters checkout date as "+ givendate);
 	}
 
-
-
-
-
-
 	@When("the user enters the search button")
 	public void the_user_enters_the_search_button() {
 		SearchHotelPage.getInstance().clickSearchButton();
@@ -81,8 +79,11 @@ public class SearchHotelToAcceptValidCheckoutDate_Stepdef {
 
 	@Then("the user should able to see the list of hotels")
 	public void the_user_should_able_to_see_the_list_of_hotels() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+		System.out.println(DriverManager.getDriver().getCurrentUrl());
+		if(DriverManager.getDriver().getCurrentUrl().contains("SelectHotel")) {
+			LOGGER.info("User is able to see the search hotel page which should not be possible");
+			Assert.assertFalse("User is able to see the search hotel page which should not be possible", true);
+		}
 	}
 	
 	
