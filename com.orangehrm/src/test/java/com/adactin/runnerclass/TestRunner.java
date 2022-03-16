@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features = "src/test/resources/features",
 				glue= "com.adactin.stepdefenition",
 				monochrome = true,
-				dryRun = false
+				dryRun = true
 				)
 public class TestRunner {
 
