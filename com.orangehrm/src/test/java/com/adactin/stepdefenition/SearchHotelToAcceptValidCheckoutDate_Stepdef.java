@@ -1,11 +1,12 @@
 package com.adactin.stepdefenition;
 
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.adactin.pageobjects.SearchHotelPage;
 
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
@@ -48,18 +49,33 @@ public class SearchHotelToAcceptValidCheckoutDate_Stepdef {
 		LOGGER.info("User Selects the no of rooms");
 	}
 
+
 	@When("the user enters the checkin date as\"{int}\\/{int}\\/{int}\"")
 	public void the_user_enters_the_checkin_date_as(Integer int1, Integer int2, Integer int3) {
-		LOGGER.info("User Selects the checkin date");
+		String givendate = Integer.toString(int1) +"/"+ Integer.toString(int2) +"/"+ Integer.toString(int3);
+		DateTimeFormatter format = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+		  LocalDate checkindate = LocalDate.parse(givendate, format);
+		  System.out.println("entered date is: "+checkindate);
+		  
+		  SearchHotelPage.getInstance().datepickin(givendate);
+		  LOGGER.info("User enters checkin date as "+ givendate);
 	}
-
+	
 	@When("the user enters the checkout date as\"{int}\\/{int}\\/{int}\"")
 	public void the_user_enters_the_checkout_date_as(Integer int1, Integer int2, Integer int3) {
-		LOGGER.info("User Selects the checkout date");
+		String givendate = Integer.toString(int1) +"/"+ Integer.toString(int2) +"/"+ Integer.toString(int3);
+	    SearchHotelPage.getInstance().datepickout(givendate);
+	    LOGGER.info("User enters checkout date as "+ givendate);
 	}
+
+
+
+
+
 
 	@When("the user enters the search button")
 	public void the_user_enters_the_search_button() {
+		SearchHotelPage.getInstance().clickSearchButton();
 		LOGGER.info("User clicks on search button");
 	}
 

@@ -1,60 +1,132 @@
-2022-03-13 00:37:53,337 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 00:37:53,702 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-13 00:38:25,505 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
-2022-03-13 00:38:25,506 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
-2022-03-13 00:38:25,506 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
-2022-03-13 00:38:25,507 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
-2022-03-13 00:38:25,538 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkin date
-2022-03-13 00:38:25,539 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkout date
-2022-03-13 00:38:25,539 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
-2022-03-13 00:38:25,701 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 00:38:28,256 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-13 00:38:28,394 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-13 00:38:34,469 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-13 00:38:34,544 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
-2022-03-13 00:38:34,545 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
-2022-03-13 00:58:59,102 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 00:58:59,158 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-13 00:59:27,073 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-13 00:59:27,199 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-13 00:59:28,981 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-13 00:59:29,067 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
-2022-03-13 00:59:29,068 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
-2022-03-13 00:59:29,161 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 00:59:29,164 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
-2022-03-13 00:59:29,165 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
-2022-03-13 00:59:29,166 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
-2022-03-13 00:59:29,167 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
-2022-03-13 00:59:29,167 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkin date
-2022-03-13 00:59:29,168 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkout date
-2022-03-13 00:59:29,169 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
-2022-03-13 01:31:35,602 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 01:31:35,636 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-13 01:32:05,275 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-13 01:32:05,439 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-13 01:32:08,308 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-13 01:32:09,027 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
-2022-03-13 01:32:09,027 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
-2022-03-13 01:32:09,149 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 01:32:09,914 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
-2022-03-13 01:32:09,915 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
-2022-03-13 01:32:09,916 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
-2022-03-13 01:32:09,916 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
-2022-03-13 01:32:09,917 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkin date
-2022-03-13 01:32:09,918 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkout date
-2022-03-13 01:32:09,919 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
-2022-03-13 01:52:08,593 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 01:52:08,604 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
-2022-03-13 01:52:32,988 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
-2022-03-13 01:52:33,157 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
-2022-03-13 01:52:38,480 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
-2022-03-13 01:52:38,555 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
-2022-03-13 01:52:38,555 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
-2022-03-13 01:52:38,633 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
-2022-03-13 01:52:38,914 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
-2022-03-13 01:52:39,069 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
-2022-03-13 01:52:39,216 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
-2022-03-13 01:52:39,363 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
-2022-03-13 01:52:39,364 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkin date
-2022-03-13 01:52:39,364 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkout date
-2022-03-13 01:52:39,364 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-15 08:27:02,810 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:27:02,847 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 08:27:58,431 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 08:27:58,730 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 08:28:02,083 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 08:28:02,156 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 08:28:02,157 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 08:28:02,325 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:28:03,165 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 08:28:03,450 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 08:28:03,655 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 08:28:03,802 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 08:28:03,802 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkin date
+2022-03-15 08:28:03,803 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the checkout date
+2022-03-15 08:28:03,803 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-15 08:39:17,487 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:39:17,562 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 08:40:29,603 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 08:40:30,225 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 08:40:41,608 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 08:40:42,557 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 08:40:42,558 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 08:40:43,408 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:40:45,008 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 08:40:45,192 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 08:40:45,385 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 08:40:45,554 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 08:52:34,560 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:52:34,661 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 08:53:02,138 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 08:53:02,306 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 08:53:04,842 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 08:53:04,925 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 08:53:06,107 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 08:53:07,202 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:53:08,874 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 08:53:09,034 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 08:53:09,202 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 08:53:09,334 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 08:55:21,092 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:55:21,183 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 08:55:50,729 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 08:55:51,504 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 08:55:55,390 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 08:55:55,471 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 08:55:55,472 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 08:55:55,565 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 08:55:55,883 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 08:55:56,050 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 08:55:56,217 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 08:55:56,363 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:01:29,076 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:01:29,137 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:01:52,230 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:01:52,367 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:01:54,790 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:01:54,917 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:01:54,918 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:01:55,110 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:01:55,567 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:01:55,720 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:01:55,889 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:01:56,053 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:20:24,223 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:20:24,234 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:20:53,503 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:20:53,655 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:20:56,765 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:20:56,973 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:20:56,974 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:20:57,403 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:20:57,636 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:20:57,785 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:20:57,940 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:20:58,080 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:22:47,674 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:22:47,682 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:22:59,305 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:22:59,445 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:23:01,937 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:23:02,024 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:23:02,025 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:23:02,058 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:23:02,232 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:23:02,406 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:23:02,561 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:23:02,692 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:27:25,503 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:27:25,512 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:28:10,491 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:28:10,619 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:28:13,183 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:28:13,604 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:28:13,605 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:28:13,714 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:28:14,023 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:28:14,188 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:28:14,337 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:28:14,477 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:28:14,894 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as10/10/2022
+2022-03-15 09:28:14,941 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as15/10/2022
+2022-03-15 09:28:15,740 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-15 09:33:23,188 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:33:23,197 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:33:38,868 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:33:39,003 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:33:41,301 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:33:41,408 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:33:41,408 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:33:41,550 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:33:41,802 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:33:41,956 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:33:42,113 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:33:42,251 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:33:42,597 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-15 09:33:42,648 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 15/10/2022
+2022-03-15 09:33:43,611 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button
+2022-03-15 09:35:16,222 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:35:16,230 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] opening chrome Browser
+2022-03-15 09:35:31,380 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_username
+2022-03-15 09:35:31,513 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_enters_the_password
+2022-03-15 09:35:34,089 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_clicks_the_submit_button
+2022-03-15 09:35:34,163 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] the_user_is_able_to_see_UserName
+2022-03-15 09:35:34,163 [INFO ] com.adactin.stepdefenition.VerifyUserLogin_StepDef [main] ADCTN-1 Test case executed succesfully
+2022-03-15 09:35:34,235 [INFO ] com.adactin.stepdefenition.CommonStepdefenition [main] Loading properties
+2022-03-15 09:35:34,452 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the location
+2022-03-15 09:35:34,625 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the hotel
+2022-03-15 09:35:34,802 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the room type
+2022-03-15 09:35:34,953 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User Selects the no of rooms
+2022-03-15 09:35:35,217 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkin date as 10/10/2022
+2022-03-15 09:35:35,388 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User enters checkout date as 15/10/2022
+2022-03-15 09:35:36,113 [INFO ] com.adactin.stepdefenition.SearchHotelToAcceptValidCheckoutDate_Stepdef [main] User clicks on search button

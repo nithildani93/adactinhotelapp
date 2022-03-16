@@ -135,14 +135,16 @@ public class SearchHotelPage {
 	}
 	
 	public void datepickin(String datein) {
+		datepickin.clear();
 		datepickin.sendKeys(datein);
 	}
 	
 	public void datepickout(String dateout) {
-		datepickin.sendKeys(dateout);
+		datepickout.clear();
+		datepickout.sendKeys(dateout);
 	}
 	
-	public void searchButton() {
+	public void clickSearchButton() {
 		searchtbutton.click();
 	}
 	

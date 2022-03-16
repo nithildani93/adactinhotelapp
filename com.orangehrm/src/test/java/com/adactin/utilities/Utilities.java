@@ -2,6 +2,9 @@ package com.adactin.utilities;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
@@ -103,6 +106,13 @@ public class Utilities {
 			break;
 		}
 	}
-
+	
+	
+	public String getCurrentDate() {
+		DateFormat dateformat = new SimpleDateFormat("MM/dd/yyyy");
+		Date date1 = new Date();
+		String date = dateformat.format(date1);
+		return date;
+	}
 
 }
