@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 				monochrome = true,
 				dryRun = false,
 				plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
-						"html: target/cucumber-report/htmlreports.html"}
+						"html:target/cucumber-report/htmlreports.html"}
 				)
 public class TestRunner {
 
